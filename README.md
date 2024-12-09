@@ -14,4 +14,4 @@ Photo_Locker is a secure photo-hiding app that allows users to hide their photos
 
 ## Demo Video
 
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/15PLoyFn52lPGfXDl3-eLg8Xi4-QJPEtF/view?usp=drive_link)
+[[Watch the Demo]](https://drive.google.com/file/d/15PLoyFn52lPGfXDl3-eLg8Xi4-QJPEtF/view?usp=drive_link)
